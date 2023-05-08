@@ -2,13 +2,13 @@
 
 Implementation of:
 
-- Standard GCN
+- Standard GCN - gcn.ipynb
 
-- Graph U-net [1]
+- Graph U-net [1] - g-u-net.ipynb
 
-- Graph U-net with pooling method based on Attpool [2]
+- Graph U-net with pooling method based on Attpool [2] - attu-net.ipynb
 
-- Graph U-net with pooling method based on SAGpool [3]
+- Graph U-net with pooling method based on SAGpool [3] - sagu-net.ipynb
 
 [1] Gao, H., Ji, S.: Graph u-nets (2019). https://doi.org/10.48550/ARXIV.1905.05178, https://arxiv.org/abs/1905.05178
 
